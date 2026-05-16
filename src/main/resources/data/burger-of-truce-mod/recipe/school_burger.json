@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "ingredients": [
+    {
+      "item": "burger-of-truce-mod:dry_bread"
+    },
+    {
+      "item": "burger-of-truce-mod:dry_bread"
+    },
+    {
+      "item": "burger-of-truce-mod:mysterious_patty"
+    },
+    {
+      "item": "minecraft:beetroot"
+    },
+    {
+      "item": "minecraft:carrot"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "burger-of-truce-mod:school_burger"
+  }
+}

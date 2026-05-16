@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "ingredients": [
+    {
+      "item": "minecraft:cooked_beef"
+    },
+    {
+      "item": "minecraft:rotten_flesh"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:bone_meal"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "burger-of-truce-mod:mysterious_patty"
+  }
+}

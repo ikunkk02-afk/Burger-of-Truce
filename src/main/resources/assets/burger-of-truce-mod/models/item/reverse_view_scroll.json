@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "burger-of-truce-mod:item/reverse_view_scroll"
+  }
+}

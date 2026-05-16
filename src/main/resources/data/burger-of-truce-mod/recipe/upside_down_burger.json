@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "ingredients": [
+    {
+      "item": "burger-of-truce-mod:school_burger"
+    },
+    {
+      "item": "burger-of-truce-mod:reversed_essay_page"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "burger-of-truce-mod:upside_down_burger"
+  }
+}

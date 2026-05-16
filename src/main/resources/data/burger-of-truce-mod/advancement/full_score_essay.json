@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "manual": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.burger-of-truce-mod.full_score_essay.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "burger-of-truce-mod:full_score_essay"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.burger-of-truce-mod.full_score_essay.title"
+    }
+  },
+  "requirements": [
+    [
+      "manual"
+    ]
+  ]
+}

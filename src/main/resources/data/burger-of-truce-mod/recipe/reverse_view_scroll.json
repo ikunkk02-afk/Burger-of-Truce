@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "burger-of-truce-mod:reversed_essay"
+    },
+    {
+      "item": "burger-of-truce-mod:school_burger"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "burger-of-truce-mod:reverse_view_scroll"
+  }
+}

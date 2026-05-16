@@ -1,0 +1,33 @@
+{
+	"schemaVersion": 1,
+	"id": "burger-of-truce-mod",
+	"version": "${version}",
+	"name": "Burger of Truce Mod",
+	"description": "An original abstract disaster mod about preparing a Burger of Truce before the Red Rock King arrives.",
+	"authors": [
+		"shouy"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/"
+	},
+	"license": "MIT",
+	"icon": "assets/burger-of-truce-mod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.burger_of_truce.BurgerOfTruceMod"
+		],
+		"client": [
+			"com.burger_of_truce.client.BurgerOfTruceModClient"
+		],
+		"fabric-datagen": [
+			"com.burger_of_truce.client.BurgerOfTruceModDataGenerator"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.2",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

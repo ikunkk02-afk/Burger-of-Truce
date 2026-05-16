@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "D": {
+      "item": "minecraft:red_dye"
+    },
+    "R": {
+      "item": "burger-of-truce-mod:red_rock_shard"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "  D",
+    " R ",
+    "S  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "burger-of-truce-mod:red_pen"
+  }
+}

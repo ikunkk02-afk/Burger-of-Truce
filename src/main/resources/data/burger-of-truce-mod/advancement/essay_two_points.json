@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "manual": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.burger-of-truce-mod.essay_two_points.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "burger-of-truce-mod:reversed_essay_page"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.burger-of-truce-mod.essay_two_points.title"
+    }
+  },
+  "requirements": [
+    [
+      "manual"
+    ]
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "burger-of-truce-mod:corrected_essay"
+    },
+    {
+      "item": "burger-of-truce-mod:red_pen"
+    },
+    {
+      "item": "minecraft:emerald"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "burger-of-truce-mod:full_score_essay"
+  }
+}
